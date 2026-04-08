@@ -4,7 +4,7 @@
 **Course:** SYSC3010W25  
 **Group:** L2-G3  
 **TA:** Afsoon Khodaee  
-**Team Members:** Uchenna Obikwelu, Adeyehun Folahanmi, Dearell Tobenna Ezeoke, Emeka Anonyei, Tobiloba Ola
+**Team Members:** Uchenna Obikwelu, Dearell Tobenna Ezeoke, Adeyehun Folahanmi, Emeka Anonyei, Tobiloba Ola
 
 #### Initial Project Image  
 ![SOTA Bin System Overview](./Project_Images/Logo.jpg)
